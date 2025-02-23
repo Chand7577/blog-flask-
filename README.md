@@ -2,6 +2,11 @@
 
 This is a simple authentication system built using Flask. It includes user registration and login functionality with password hashing.
 
+
+## Development Status
+
+This project is still under development.
+
 ## Features
 - User Registration
 - User Login
@@ -49,7 +54,5 @@ flask-auth-app/
 - Flask
 - Flask-Login
 - Werkzeug(hashing)
-Development Status
 
-This project is still under development.
 
