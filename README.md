@@ -23,7 +23,7 @@ Make sure you have Python installed (preferably Python 3.7+).
 1. Clone this repository:
    ```sh
      git clone https://github.com/Chand7577/blog-flask-.git
-   cd blog-flask-
+     cd blog-flask-
    ```
 2. Create a virtual environment (optional but recommended):
    ```sh
@@ -49,7 +49,7 @@ Make sure you have Python installed (preferably Python 3.7+).
 ## Folder Structure
 
 ```
-flask-auth-app/
+blog-flask-/
 │── app.py               # Main Flask app
 │── templates/           # HTML templates
 │── requirements.txt     # Dependencies
