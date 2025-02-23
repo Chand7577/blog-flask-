@@ -48,9 +48,8 @@ flask-auth-app/
 ## Dependencies
 - Flask
 - Flask-Login
+- Werkzeug(hashing)
+Development Status
 
-- Werkzeug
-
-## License
-This project is licensed under the MIT License.
+This project is still under development.
 
