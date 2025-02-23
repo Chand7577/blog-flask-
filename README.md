@@ -8,6 +8,7 @@ This project is still under development.
 
 ## Features
 
+- Uses Jinja templating engine for rendering dynamic HTML
 - User Registration
 - User Login
 - Password Hashing with `werkzeug.security`
